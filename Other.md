@@ -934,6 +934,8 @@
 [https://github.com/outlook/gifcap](https://github.com/outlook/gifcap)
 1. **Fakeit** It generates realistic fake data — like names, emails, dates, countries — to be used in your Android development environment
 [https://github.com/moove-it/fakeit](https://github.com/moove-it/fakeit)
+1. **opencode-remote-android** Open-source Android companion app for monitoring and controlling opencode AI coding agent sessions running on a remote server. Supports live streaming output, sending prompts, and stopping jobs. Apache-2.0.
+[https://github.com/giuliastro/opencode-remote-android](https://github.com/giuliastro/opencode-remote-android)
 
 
 
